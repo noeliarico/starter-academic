@@ -68,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Noelia Rico has a B.Sc. in software engineering from the University of Oviedo and a M.Sc in research in artificial intelligence and data mining from the Menéndez Pelayo International University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, she is doing a PhD in computer science at the University of Oviedo, where she also teaches lessons in subjects such as Databases and Computability. Her research interests are machine learning methods and their applications. She is most interested in clustering methods as well as the validity indexes used to evaluate the clusters that these methods generate.
+
+
