@@ -5,7 +5,7 @@ name = "noelia"
 light = true
 
 # Primary
-primary = "#rgb(188, 144, 116)"
+primary = "rgb(188, 144, 116)"
 
 # Menu
 menu_primary = "rgb(72, 92, 65)"
