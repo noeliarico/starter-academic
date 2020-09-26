@@ -15,6 +15,14 @@
     url = "#about"
     name = "Docencia"
     url = "#about"
+    name = "Congresos"
+    url = "#about"
+    name = "Publicaciones"
+    url = "#about"
+    name = "Contacto"
+    url = "#about"
+    name = "Posts"
+    url = "#about"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
