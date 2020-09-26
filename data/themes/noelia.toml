@@ -16,6 +16,6 @@ menu_title = "rgb(227, 217, 214)"
 # Backgrounds
 background = "rgb(239, 233, 230)"
 home_section_odd = "rgb(239, 233, 230)"
-home_section_even = "rgb(239, 233, 230)"
+home_section_even = "rgb(227, 217, 214)"
 
 font = "rose"
