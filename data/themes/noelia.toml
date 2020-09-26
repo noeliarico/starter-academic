@@ -5,10 +5,9 @@ name = "noelia"
 light = true
 
 # Primary
-primary = "#fabada"
+primary = "#rgb(188, 144, 116)"
 
 # Menu
-# rgb(188, 144, 116)
 menu_primary = "rgb(72, 92, 65)"
 menu_text = "rgb(239, 233, 230)"
 menu_text_active = "rgb(195, 174, 149)"
