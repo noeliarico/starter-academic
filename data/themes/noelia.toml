@@ -5,18 +5,18 @@ name = "noelia"
 light = true
 
 # Primary
-primary = "#ffffff"
+primary = "#795548"
 
 # Menu
-menu_primary = "#ffffff"
+menu_primary = "#795548"
 menu_text = "rgba(255,255,255,0.6)"
 menu_text_active = "rgba(255,255,255,1)"
-menu_title = "#ffffff"
+menu_title = "#fff"
 
 # Backgrounds
 #background = "hsla(16, 24%, 85%, 1)"
 background = "#795548"
-home_section_odd = "hsl(300,100%,50%)"
-home_section_even = "hsl(300,80%,50%)"
+home_section_odd = "hsla(300, 100%, 50%)"
+home_section_even = "hsla(300, 80%, 50%)"
 
 font = "rose"
