@@ -16,7 +16,7 @@ menu_title = "#fff"
 # Backgrounds
 #background = "hsla(16, 24%, 85%, 1)"
 background = "#795548"
-home_section_odd = "hsla(300, 100%, 50%)"
-home_section_even = "hsla(300, 80%, 50%)"
+home_section_odd = "hsla(16, 300, 100%, 50%)"
+home_section_even = "hsla(16, 300, 80%, 50%)"
 
 font = "rose"
