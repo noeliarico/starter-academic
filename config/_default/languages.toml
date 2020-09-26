@@ -13,21 +13,27 @@
   [[es.menu.main]]
     name = "Inicio"
     url = "#about"
+    weight = 1
   [[es.menu.main]]
     name = "Docencia"
     url = "#about"
+    weight = 2
   [[es.menu.main]]
     name = "Congresos"
     url = "#about"
+    weight = 3
   [[es.menu.main]]
     name = "Publicaciones"
     url = "#about"
+    weight = 4
   [[es.menu.main]]
     name = "Contacto"
     url = "#about"
+    weight = 5
   [[es.menu.main]]
     name = "Posts"
     url = "#about"
+    weight = 6
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
