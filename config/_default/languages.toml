@@ -13,14 +13,19 @@
   [[es.menu.main]]
     name = "Inicio"
     url = "#about"
+  [[es.menu.main]]
     name = "Docencia"
     url = "#about"
+  [[es.menu.main]]
     name = "Congresos"
     url = "#about"
+  [[es.menu.main]]
     name = "Publicaciones"
     url = "#about"
+  [[es.menu.main]]
     name = "Contacto"
     url = "#about"
+  [[es.menu.main]]
     name = "Posts"
     url = "#about"
 
