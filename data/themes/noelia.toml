@@ -5,17 +5,17 @@ name = "noelia"
 light = true
 
 # Primary
-primary = "#eebab2"
+primary = "#e7cba4"
 
 # Menu
-menu_primary = "#ccd4bf"
+menu_primary = "#f5e2e4"
 menu_text = "#f5f3e7"
-menu_text_active = "#e7cba4"
+menu_text_active = "#eebab2"
 menu_title = "#fff"
 
 # Backgrounds
 background = "#f5f3e7"
 home_section_odd = "#f5f3e7"
-home_section_even = "#f5e2e4"
+home_section_even = "#ccd4bf"
 
 font = "rose"
