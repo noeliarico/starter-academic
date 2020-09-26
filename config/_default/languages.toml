@@ -11,7 +11,11 @@
   languageCode = "es-es"
   contentDir = "content/es"
   [[es.menu.main]]
-    name = "Wo"
+    name = "Inicio"
+    url = "#about"
+    weight = 1
+  [[es.menu.main]]
+    name = "Docencia"
     url = "#about"
     weight = 1
 
