@@ -10,7 +10,7 @@
 [es]
   languageCode = "es-es"
   contentDir = "content/es"
-  [[zh.menu.main]]
+  [[es.menu.main]]
     name = "Wo"
     url = "#about"
     weight = 1
