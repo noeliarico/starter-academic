@@ -26,7 +26,10 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  
+  # Asignatura 1
+  
+  # Asignatura 2
   
   * Analysing
   * Modelling
