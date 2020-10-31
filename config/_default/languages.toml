@@ -27,13 +27,14 @@
     url = "#about"
     weight = 4
   [[es.menu.main]]
-    name = "Contacto"
-    url = "#about"
+    name = "Posts"
+    url = "#posts"
     weight = 5
   [[es.menu.main]]
-    name = "Posts"
-    url = "#about"
+    name = "Contacto"
+    url = "#contact"
     weight = 6
+
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
