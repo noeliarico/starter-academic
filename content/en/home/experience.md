@@ -19,21 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "2020/2021"
-  company = "Grado en Ingeniería Informática del Software"
-  company_url = ""
-  location = "University of Oviedo"
-  date_start = "2017-01-01"
-  date_end = "fin"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
   title = "2019/2020"
   company = "University"
   company_url = ""
