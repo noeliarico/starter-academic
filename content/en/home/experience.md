@@ -19,21 +19,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "2019/2020"
-  company = "University"
-  company_url = ""
-  location = "California"
+  title = "2020/2019"
+  company = "Degree in Software Engineering"
+  company_url = "http://ingenieriainformatica.uniovi.es"
+  location = "Oviedo, Asturias, Spain"
   date_start = "2017-01-01"
   date_end = ""
   description = """
   
-  # Asignatura 1
+  ### Artificial Intelligence (48h, Spanish)
   
-  # Asignatura 2
+  * Data analysing
+  * Data modelling
   
-  * Analysing
-  * Modelling
-  * Deploying
+  """
+  
+[[experience]]
+  title = "2019/2020"
+  company = "Degree in Software Engineering"
+  company_url = "http://ingenieriainformatica.uniovi.es"
+  location = "Oviedo, Asturias, Spain"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  
+  ### Databases (xXh, English)
+  
+  Algo
+  
+  ### Databases (xXh, English)
+  
+  Otro algo
+  
+  ### Computability (xXh, English)
+  
+  Algo
+  
   """
 
 [[experience]]
