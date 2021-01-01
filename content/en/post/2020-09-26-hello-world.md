@@ -1,6 +1,6 @@
 ---
 title: Hello world!
-author: ~
+author: Noelia Rico
 date: '2020-09-26'
 slug: hello-world
 categories: []

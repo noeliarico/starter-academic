@@ -18,13 +18,16 @@ organizations:
   url: "http://www.uniovi.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, exploratory data analysis and efficient algorithms.
+bio: My research interests include machine learning, exploratory data analysis and efficient algorithms. Currently doing my PhD at the University of Oviedo in computational social choice.
 
 interests:
 - Artificial Intelligence
 - Machine Learning
 - Exploratory data analysis
 - R
+- Python
+- CUDA
+- Computational Social Choice
 
 education:
   courses:
@@ -52,7 +55,8 @@ social:
   link: http://github.com/noeliarico/
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:noeliarico@uniovi.es" # '#contact'  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "noeliarico@uniovi.es"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
