@@ -10,22 +10,22 @@
 
 [[main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/coming_soon"
   weight = 2
 
 [[main]]
   name = "Coferences"
-  url = "/conferences"
+  url = "/coming_soon"
   weight = 3
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/coming_soon"
   weight = 4
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/coming_soon"
   weight = 5
 
 
