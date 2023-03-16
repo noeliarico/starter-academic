@@ -16,23 +16,23 @@
     weight = 1
   [[es.menu.main]]
     name = "Docencia"
-    url = "#about"
+    url = "/experience"
     weight = 2
   [[es.menu.main]]
     name = "Congresos"
-    url = "#about"
+    url = "/coming_soon"
     weight = 3
   [[es.menu.main]]
     name = "Publicaciones"
-    url = "#about"
+    url = "/coming_soon"
     weight = 4
   [[es.menu.main]]
     name = "Posts"
-    url = "#posts"
+    url = "/coming_soon"
     weight = 5
   [[es.menu.main]]
     name = "Contacto"
-    url = "#contact"
+    url = "/coming_soon"
     weight = 6
 
 

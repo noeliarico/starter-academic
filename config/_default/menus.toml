@@ -1,7 +1,7 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# To link a homepage widget, specify the URL as a hash `#`
+# followed by the filename of the desired widget in your `content/home/` folder.
+# The weight parameter defines the order that the links will appear in.
 
 [[main]]
   name = "Home"
@@ -10,23 +10,28 @@
 
 [[main]]
   name = "Teaching"
-  url = "/coming_soon"
+  url = "/acc"
   weight = 2
 
 [[main]]
-  name = "Coferences"
+  name = "Courses"
   url = "/coming_soon"
   weight = 3
 
 [[main]]
   name = "Publications"
-  url = "/coming_soon"
+  url = "/publication"
   weight = 4
+
+[[main]]
+  name = "Resume"
+  url = "/coming_soon"
+  weight = 5
 
 [[main]]
   name = "Contact"
   url = "/coming_soon"
-  weight = 5
+  weight = 6
 
 
 # Link to a PDF of your resume/CV from the menu.
